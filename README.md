@@ -310,5 +310,9 @@ Thanks to Georges Hebrail, Alice Berard, and the UCI Machine Learning Repository
 
 **Disclaimer:** This project is intended for educational and portfolio purposes. Forecasting results are model-generated estimates, not guaranteed future measurements.
 
+## Live Demo
+
+🚀 Streamlit Dashboard:https://electricity-consumption-prediction-keuan4dydtnv4hxl5kqgst.streamlit.app/
+
  Author
 Lavanya D B.Tech Artificial Intelligence and Machine Learning Student
