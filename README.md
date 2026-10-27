@@ -308,30 +308,6 @@ Thanks to Georges Hebrail, Alice Berard, and the UCI Machine Learning Repository
 
 ---
 
-**Disclaimer:** Thi## 📊 Graphs and Visualizations
-
-### 1. Correlation Heatmap
-![Correlation Heatmap](outputs/correlation_heatmap.png)
-
-### 2. Fraud Distribution
-![Fraud Distribution](outputs/fraud_distribution.png)
-
-### 3. Actual vs Predicted Consumption
-![Actual vs Predicted](outputs/actual_vs_predicted.png)
-
-### 4. Daily Consumption Trend
-![Daily Consumption Trend](outputs/daily_consumption_trend.png)
-
-### 5. Error Distribution
-![Error Distribution](outputs/error_distribution.png)
-
-### 6. Hourly Consumption
-![Hourly Consumption](outputs/hourly_consumption.png)
-
-### 7. Monthly Consumption
-![Monthly Consumption](outputs/monthly_consumption.png)s project is intended for educational and portfolio purposes. Forecasting results are model-generated estimates, not guaranteed future measurements.
-
-
 
 ## Live Demo
 
