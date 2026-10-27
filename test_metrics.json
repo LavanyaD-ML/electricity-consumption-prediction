@@ -1,0 +1,6 @@
+{
+    "selected_model": "RandomForest",
+    "test_MAE": 0.16705728413839507,
+    "test_RMSE": 0.22894542273169108,
+    "test_R2": 0.46233865031239085
+}

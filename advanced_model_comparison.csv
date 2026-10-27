@@ -1,0 +1,3 @@
+model,best_cv_MAE_kW,test_MAE_kW,test_RMSE_kW,test_R2,best_parameters
+RandomForest,0.21767095998247027,0.164608479648579,0.21964679327159267,0.486803929979445,"{""n_estimators"": 100, ""min_samples_split"": 10, ""min_samples_leaf"": 4, ""max_features"": ""sqrt"", ""max_depth"": 10}"
+ExtraTrees,0.2182748678241077,0.16349281220035858,0.21823304470300867,0.49338900481041237,"{""n_estimators"": 100, ""min_samples_split"": 10, ""min_samples_leaf"": 4, ""max_features"": ""sqrt"", ""max_depth"": 10}"

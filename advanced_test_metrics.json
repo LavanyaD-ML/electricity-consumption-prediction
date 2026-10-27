@@ -1,0 +1,27 @@
+{
+    "best_model": "RandomForest",
+    "best_cv_MAE_kW": 0.21767095998247027,
+    "test_MAE_kW": 0.164608479648579,
+    "test_RMSE_kW": 0.2196467932715927,
+    "test_R2": 0.486803929979445,
+    "training_rows": 1201,
+    "testing_rows": 213,
+    "features": [
+        "day_of_week",
+        "month",
+        "day_of_year",
+        "is_weekend",
+        "lag_1",
+        "lag_2",
+        "lag_3",
+        "lag_7",
+        "lag_14",
+        "lag_28",
+        "rolling_mean_7",
+        "rolling_std_7",
+        "rolling_mean_14",
+        "rolling_std_14",
+        "rolling_mean_28",
+        "rolling_std_28"
+    ]
+}

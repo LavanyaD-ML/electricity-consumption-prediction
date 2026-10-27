@@ -1,0 +1,9 @@
+{
+    "evaluation": "Chronological holdout test",
+    "model": "RandomForest",
+    "test_observations": 213,
+    "MAE_kW": 0.164608479648579,
+    "RMSE_kW": 0.21964679327159267,
+    "R2": 0.486803929979445,
+    "previous_day_baseline_MAE_kW": 0.19051030863940493
+}
